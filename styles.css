@@ -1,2 +1,21 @@
 
-/* Your CSS Code here. */
+nav{
+	padding: 5px;
+	margin: 5px;
+}
+ #nav-actor, #nav-quote {
+	padding: 5px;
+	text-decoration: none;
+	background-color: black;
+	color: white;
+} 
+#actor, #quote{
+	padding: 10px;
+	background-color:  #e7e7e7;
+	margin: 10px;
+	color: blue;
+}
+footer{
+	background-color: black;
+	color: white;
+}
